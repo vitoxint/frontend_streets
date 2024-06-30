@@ -1,24 +1,32 @@
 # frontend_streets
 
-## Project setup
+## Autor: Victor Rivas Monsalves
+
+## Requerimientos mínimos
+
+- NPM versión 10 +
+- Node versión 18 +
+
+## Instalar dependencias
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### Compilar y ejecutar el proyecto en desarrollo
 ```
 npm run serve
 ```
+- La aplicación de ejecutará en el navegador en localhost:8080
 
-### Compiles and minifies for production
+### Compilar para producción
 ```
 npm run build
 ```
 
-### Lints and fixes files
+### Lints , ver errores
 ```
 npm run lint
 ```
 
-### Customize configuration
+### Mas opciones de configuración
 See [Configuration Reference](https://cli.vuejs.org/config/).
